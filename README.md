@@ -29,6 +29,7 @@ The main objectives of this project are to:
 - NumPy
 - Matplotlib
 - Seaborn
+- Power BI
 - Jupyter Notebook
 
 ---
